@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-for-owner/static/css/main.c0be6faa.css",
+    "main.js": "/web-for-owner/static/js/main.7acff1ad.js",
+    "index.html": "/web-for-owner/index.html",
+    "main.c0be6faa.css.map": "/web-for-owner/static/css/main.c0be6faa.css.map",
+    "main.7acff1ad.js.map": "/web-for-owner/static/js/main.7acff1ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0be6faa.css",
+    "static/js/main.7acff1ad.js"
+  ]
+}
